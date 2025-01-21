@@ -1,1 +1,16 @@
 
+Blog Tché est un projet personnel qui permet aux utilisateurs de créer, modifier, gérer et commenter des articles de blog. Il s'agit d'une plateforme complète de blogging développée avec PHP, MySQL, HTML, et CSS.
+
+Fonctionnalités principales
+
+* Création, modification, suppression et gestion de posts.
+* Téléchargement facultatif d'images pour les posts.
+* Gestion des commentaires pour chaque post.
+* Authentification utilisateur avec un tableau de bord personnalisé.
+* Interface conviviale avec un menu de navigation intégré.
+
+Base de données
+Le projet utilise une base de données SQL nommée blog_tché pour gérer les utilisateurs, les posts et les commentaires.
+
+Vidéo de démonstration
+Une vidéo est incluse pour montrer l'utilisation complète de la plateforme.
